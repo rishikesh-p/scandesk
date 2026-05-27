@@ -3,7 +3,7 @@
   import Zap from "@lucide/svelte/icons/zap";
   import Palette from "@lucide/svelte/icons/palette";
   import QrCode from "@lucide/svelte/icons/qr-code";
-  import Smartphone from "@lucide/svelte/icons/smartphone";
+  import TrendingUp from "@lucide/svelte/icons/trending-up";
 </script>
 
 <section id="features" class="py-24 relative">
@@ -11,7 +11,7 @@
   <div class="container mx-auto px-4">
     <div class="text-center space-y-4 mb-16">
       <h2 class="font-heading text-3xl sm:text-4xl font-bold tracking-tight text-foreground">Why choose ScanDesk?</h2>
-      <p class="text-lg text-muted-foreground max-w-2xl mx-auto">Everything you need to modernize your dining experience.</p>
+      <p class="text-lg text-muted-foreground max-w-2xl mx-auto">Everything you need to boost your sales.</p>
     </div>
     
     <div class="grid sm:grid-cols-2 lg:grid-cols-4 gap-6">
@@ -23,7 +23,7 @@
           <CardTitle>Blazing Fast</CardTitle>
         </CardHeader>
         <CardContent>
-          <CardDescription class="text-base text-muted-foreground">Instant loads, optimized images (WebP), and zero lag for a seamless browsing experience.</CardDescription>
+          <CardDescription class="text-base text-muted-foreground">Instant loads, high-resolution images, and zero lag for a seamless browsing experience.</CardDescription>
         </CardContent>
       </Card>
       
@@ -54,12 +54,12 @@
       <Card class="bg-card/50 backdrop-blur-sm hover:bg-muted/50 transition-all border-border/50 hover:border-primary/50 shadow-sm hover:shadow-md group">
         <CardHeader>
           <div class="h-12 w-12 rounded-xl bg-primary/10 flex items-center justify-center mb-4 group-hover:scale-110 transition-transform">
-            <Smartphone class="text-primary" size={24} />
+            <TrendingUp class="text-primary" size={24} />
           </div>
-          <CardTitle>No App Required</CardTitle>
+          <CardTitle>Boost Sales</CardTitle>
         </CardHeader>
         <CardContent>
-          <CardDescription class="text-base text-muted-foreground">Works seamlessly on any smartphone browser. There are no apps to download and no complicated sign-ups.</CardDescription>
+          <CardDescription class="text-base text-muted-foreground">Visually appealing menus encourage customers to order more, naturally increasing your overall sales and orders.</CardDescription>
         </CardContent>
       </Card>
     </div>

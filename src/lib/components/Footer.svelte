@@ -5,7 +5,7 @@
 <footer id="contact" class="border-t border-border/40 bg-background pt-16 pb-8">
   <div class="container mx-auto px-4 text-center space-y-12">
     <div class="space-y-6 max-w-2xl mx-auto">
-      <h2 class="font-heading text-3xl font-bold">Ready to modernize your menu?</h2>
+      <h2 class="font-heading text-3xl font-bold">Ready to boost your sales?</h2>
       <p class="text-muted-foreground text-lg">Join forward-thinking restaurants providing a premium digital experience.</p>
       <div class="pt-4 flex flex-col sm:flex-row justify-center items-center gap-4">
         <a href="tel:+916369169287" class="w-full sm:w-auto">
@@ -13,8 +13,8 @@
             Call +91 63691 69287
           </Button>
         </a>
-        <a href="#pricing" class="w-full sm:w-auto">
-          <Button variant="outline" size="lg" class="w-full text-base">Contact Sales</Button>
+        <a href="https://wa.me/916369169287" target="_blank" rel="noopener noreferrer" class="w-full sm:w-auto block">
+          <Button variant="outline" size="lg" class="w-full text-base">Chat on WhatsApp</Button>
         </a>
       </div>
     </div>

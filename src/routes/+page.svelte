@@ -3,7 +3,6 @@
   import Hero from "$lib/components/Hero.svelte";
   import ValueProp from "$lib/components/ValueProp.svelte";
   import Features from "$lib/components/Features.svelte";
-  import Showcase from "$lib/components/Showcase.svelte";
   import Pricing from "$lib/components/Pricing.svelte";
   import Footer from "$lib/components/Footer.svelte";
 </script>
@@ -19,7 +18,6 @@
     <Hero />
     <ValueProp />
     <Features />
-    <Showcase />
     <Pricing />
   </main>
   <Footer />

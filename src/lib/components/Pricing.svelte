@@ -35,7 +35,7 @@
           </li>
           <li class="flex items-center gap-3">
              <CircleCheck class="text-primary h-5 w-5 flex-shrink-0" />
-             <span class="text-foreground/80">No App Download Required</span>
+             <span class="text-foreground/80">Unlimited Menu Items</span>
           </li>
           <li class="flex items-center gap-3">
              <CircleCheck class="text-primary h-5 w-5 flex-shrink-0" />
@@ -43,7 +43,7 @@
           </li>
         </ul>
         
-        <a href="#contact">
+        <a href="#contact" class="block w-full">
           <Button size="lg" class="w-full text-base font-semibold shadow-lg shadow-primary/20 hover:shadow-primary/40 transition-shadow">
             Get Started Now
           </Button>
