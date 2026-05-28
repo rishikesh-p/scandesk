@@ -47,7 +47,7 @@
           <CardTitle>Tabletop QR Codes</CardTitle>
         </CardHeader>
         <CardContent>
-          <CardDescription class="text-base text-muted-foreground">Place a beautiful QR code on every table. Customers simply scan it with their camera to instantly view your menu.</CardDescription>
+          <CardDescription class="text-base text-muted-foreground">Place a beautiful QR code on every table. Customers simply scan it to instantly view your menu.</CardDescription>
         </CardContent>
       </Card>
       

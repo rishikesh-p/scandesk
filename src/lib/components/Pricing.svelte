@@ -35,7 +35,7 @@
           </li>
           <li class="flex items-center gap-3">
              <CircleCheck class="text-primary h-5 w-5 flex-shrink-0" />
-             <span class="text-foreground/80">Unlimited Menu Items</span>
+             <span class="text-foreground/80">Works on Any Phone</span>
           </li>
           <li class="flex items-center gap-3">
              <CircleCheck class="text-primary h-5 w-5 flex-shrink-0" />
